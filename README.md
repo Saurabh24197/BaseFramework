@@ -1,9 +1,9 @@
 # BaseFramework
 Modified Implementation of GTGDS3, which I made for my game Expunge!
 
-##Contents
-Modules that perform following functions (pretty much everything uses delegation model)
-Each Master Script handles overall function of each module
+## Contents
+Modules that perform following functions (pretty much everything uses delegation model).
+Each Master Script handles overall function of each module.
 Each Module has scripts that refers to it's master script while working together
 with other scripts of the same module and different but connected module.
 
